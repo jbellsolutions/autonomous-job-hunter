@@ -1,0 +1,9 @@
+# Environments
+venv/
+.env
+user_data/
+__pycache__/
+*.pyc
+
+# Drafts
+*drafts.txt
