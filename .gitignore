@@ -1,9 +1,12 @@
 # Environments
 venv/
+.venv/
 .env
+config.json
 user_data/
 __pycache__/
 *.pyc
 
-# Drafts
+# Drafts / outputs
 *drafts.txt
+*.csv
